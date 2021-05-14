@@ -33,7 +33,7 @@ a{
   width: 25%;
   margin: auto;
   line-height: 2;
-  margin-bottom:
+  font-size: 1.3rem;
 }
 .skill-intro{
   color: #40514E;
@@ -137,6 +137,11 @@ hr{
   padding-top: 30px;
   padding-bottom: 50px;
   width: 40%;
+  margin: auto;
+}
+.bottom-h3{
+  font-size: 1.3rem;
+  width: 50%;
   margin: auto;
 }
 .middle-container{
